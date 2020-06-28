@@ -1,8 +1,6 @@
 import string
 
 
-################### FUNCTIONS ###################
-
 def mainMenu():
     menu_question = input('START?  (y/n)  ')
     print('')
